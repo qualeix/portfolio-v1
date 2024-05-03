@@ -17,7 +17,7 @@ const Hero = () => {
           <p className="gradient-cyber mb-8 h-14 animate-gradient text-5xl font-medium text-transparent">
             CyberSécurité
           </p>
-          <div className="flex flex-col justify-center gap-4 lg:justify-start">
+          <div className="flex flex-col justify-center gap-4 lg:justify-start lg:flex-row">
             <a
               href="#contact"
               className="inline-flex select-none p-3 font-semibold underline"
